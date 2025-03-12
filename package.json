@@ -52,7 +52,7 @@
     "node": ">=10"
   },
   "devDependencies": {
-    "@babel/core": "^7.0.0",
+    "@babel/core": "^7.26.10",
     "@babel/plugin-transform-runtime": "^7.0.0",
     "@babel/polyfill": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
@@ -76,7 +76,7 @@
     "eslint-import-resolver-babel-module": "^2.2.1",
     "eslint-plugin-babel": "^5.3.0",
     "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-jsx-a11y": "^6.7.0",
     "eslint-plugin-react": "^7.12.3",
     "express": "^4.16.4",
     "husky": "^3.0.0",
@@ -109,7 +109,7 @@
     "watchify": "^3.11.1"
   },
   "dependencies": {
-    "@babel/runtime-corejs2": "^7.2.0",
+    "@babel/runtime-corejs2": "^7.26.10",
     "@postlight/ci-failed-test-reporter": "^1.0",
     "browser-request": "github:postlight/browser-request#feat-add-headers-to-response",
     "cheerio": "^0.22.0",
